@@ -1,2 +1,2 @@
 # codecypher.github.io
-My website
+Welcome to my blog "Codecypher"
