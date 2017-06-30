@@ -9,11 +9,11 @@
 title: Cypherkaka
 email: chirag.visavadia@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my blog 'Cypherkaka', this blog contains information and tutorials regarding technologies and frameworks like JDK8, Spring, Hibernate, BigData, Apache Hadoop, Apache Spark, NoSQL and many others.
+  Welcome to my blog 'Cypherkaka', this blog contains information and tutorials regarding technologies and frameworks like BigData, Apache Hadoop, Apache Spark, Apache Kafka, NoSQL, JDK8/9, Spring, Hibernate and many other open source frameworks.
 
-  Basically, I have created this blog to explore new frameworks and remember all technical details that I have worked on or going to work with as my learning curve.
+  Basically, I have created this blog to explore opensource frameworks and remember all technical details that I have worked on or going to work with as my learning curve.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://cypherkaka.github.io/" # the base hostname & protocol for your site
 twitter_username: chiragvisavadia
 github_username:  cypherkaka
 
