@@ -4,7 +4,7 @@ layout: page
 permalink: "/about/"
 ---
 
-My name is Chirag Visavadiya and I am currently working as a Big Data | Java | JEE developer.
+My name is Chirag Visavadiya and I am currently working as a Big Data \| Java \| JEE developer.
 
 I have a passion for open source technologies with strong Linux skills and experience, I am always looking for the next generation technologies and frameworks, especially with Big Data(Apache Hadoop, Apache Spark and many others), Java, J2EE, Spring, Hibernate from the server side to the client side (HTML5, CSS3).
 
